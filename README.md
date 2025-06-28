@@ -84,6 +84,11 @@ KejiLion's Shell script tool is an all-in-one script toolbox designed for Linux 
 
 <br><br>
 
+## 🚀 一键安装【去除和修改了部份内容，仅供个人学习使用】，特别感谢科技lion
+```bash
+curl -sS -O https://raw.githubusercontent.com/Jorge25588/9527-tool/main/kejilion.sh && chmod +x kejilion.sh && ./kejilion.sh
+```
+
 ## 🚀 一键安装 (One-Click Installation) CN
 ```bash
 bash <(curl -sL kejilion.sh)
